@@ -6,7 +6,7 @@ const Gallery = () => {
     <section id="gallery">
       <h2>Photo Gallery</h2>
       <div className="gallery-grid">
-      <img src="/images/my1.jpg" alt="Your Image" />
+      <img src="/images/my1.jpg" alt="My Image" />
 
       </div>
     </section>
