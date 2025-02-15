@@ -6,9 +6,8 @@ const Gallery = () => {
     <section id="gallery">
       <h2>Photo Gallery</h2>
       <div className="gallery-grid">
-        <img src="https://via.placeholder.com/300" alt="Placeholder 1" />
-        <img src="https://via.placeholder.com/300" alt="Placeholder 2" />
-        <img src="https://via.placeholder.com/300" alt="Placeholder 3" />
+       <img src="/images/Placeholder 1.jpg" alt="My Image" />
+
       </div>
     </section>
   );
